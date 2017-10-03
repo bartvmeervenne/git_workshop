@@ -1,2 +1,6 @@
 Hallo wereld!
 Tweede git bestand
+Hello World
+Workshop git
+
+
